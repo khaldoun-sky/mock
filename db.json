@@ -1,0 +1,121 @@
+{
+  "messaging": {
+    "billingAccountNumber": "430007969636",
+    "version": "0.1",
+    "totalMsgs": 6,
+    "unreadMsgs": 6,
+    "focusId": "",
+    "message": [
+      {
+        "messageId": "c8ecf9e1-7cc5-4a94-ac63-6a1615f8f461",
+        "templateId": "BDT3115",
+        "title": "Avoid your services being suspended",
+        "text": "Unfortunately, your last Direct Debit payment hasn’t gone through as there weren’t enough funds in your bank account. This means that there is now <Currency code><Resubmitted Amount> overdue on your Sky account.\n\nWe’ll automatically make another request for payment on or just after the <Resubmission Date>. Or you can update your payment date on the right of this message.\n\nPlease make sure that there is enough money in your bank account to cover the amount due to avoid your Sky services being suspended. Also, you may be charged a <Late Payment Fee Reminder> late payment fee.",
+        "unread": true,
+        "keepable": true,
+        "deletable": true,
+        "date": "16 May",
+        "kept": true,
+        "expiryDate": "10 Jul",
+        "deleteDate": "",
+        "deleted": false,
+        "action": {
+          "ctaButtonText": "placeholder for button text",
+          "actionString": "changePaymentDueDateHome",
+          "ctaActionText": "Update Payment date"
+        }
+      },
+      {
+        "messageId": "c8ecf9e1-7cc5-4a94-ac63-6a1615a8f461",
+        "templateId": "OBD0005",
+        "title": "Your Sky set-up is only three days away",
+        "text": "We’re looking forward to putting on a show for you – and there’s so much unmissable TV coming up.\n\nTo make sure everything goes smoothly in three days’ time, please read on so you know what to do before then and what your engineer will need.\n\nYour engineer will contact you by 9am the day of the visit to give you an idea of what time they’ll arrive.\n\nSo your engineer can show you how everything works (like your Sky remote), where things are in your on-screen guide, plus give you a few handy tips, please make sure a responsible adult is at home on the big day.\n\nIf you need to change your appointment, just select 'Reschedule' on the right of this message.\n\nSee you soon.",
+        "unread": true,
+        "keepable": true,
+        "deletable": true,
+        "date": "16 May",
+        "kept": true,
+        "expiryDate": "10 Jul",
+        "deleteDate": "",
+        "deleted": false,
+        "action": {
+          "ctaButtonText": "placeholder for button text",
+          "actionString": "bookedVisits",
+          "ctaActionText": "Reschedule Engineer"
+        }
+      },
+      {
+        "messageId": "c8ecf9e1-7hc5-4a94-ac63-6a1615a8f461",
+        "templateId": "CNX4017",
+        "title": "Confirmation of your Sky TV cancellation",
+        "text": "Your subscription will end soon.\n\nPlease select ‘Find out more’ to review your options.\n\nIf there’s an outstanding balance on your account, you’ll need to pay this as soon as possible. To view your bill:\n\nSky Q: Select ‘My Account’ from the TV Menu\n\nSky+: Press the Interactive button on your remote and select ‘My Account’ ",
+        "unread": true,
+        "keepable": true,
+        "deletable": true,
+        "date": "16 May",
+        "kept": true,
+        "expiryDate": "10 Jul",
+        "deleteDate": "",
+        "deleted": false,
+        "action": null
+      },
+      {
+        "messageId": "c8ecf9e1-7hc5-4a94-ac63-6p1615a8f461",
+        "templateId": "WEL2358",
+        "title": "Your first Sky bill, everything you need to know.",
+        "text": "Thank you for joining Sky – it’s great to have you on board. So everything’s clear from the word go, we need to give you some important information.\n\n<Debit Balance><Credit Balance>\n\nIf you have a welcome offer, you’ll find all the details on your bill.\n\nFrom the second month, your monthly payment will be taken from your bank account on the date shown on your bill.\n\nPlease select the ‘View Bill’ button to view your bill.\n\nOnce again, thanks for joining Sky.",
+        "unread": true,
+        "keepable": true,
+        "deletable": true,
+        "date": "16 May",
+        "kept": true,
+        "expiryDate": "10 Jul",
+        "deleteDate": "",
+        "deleted": false,
+        "action": {
+          "ctaButtonText": "placeholder for button text",
+          "actionString": "bills",
+          "ctaActionText": "View Bill"
+        }
+      },
+      {
+        "messageId": "c8ecf9e1-7hc5-4a94-av63-6p1615a8f461",
+        "templateId": "BDT3123",
+        "title": "Provide new payment details to avoid your services being suspended",
+        "text": "Your bank has told us that your Direct Debit payment instruction has been cancelled.\n\nWe’ll need you to provide us with new Direct Debit details to avoid your Sky services being suspended. Also, you may be charged a <Late Payment Fee Reminder>late payment fee.\n\nPlease select the ‘Update details’ button to set up a new Direct Debit.\n\nIf you intend to reuse payment details previously provided to us, you may want to contact your bank to ensure there is no restriction in place.\n\nPlease note that if you no longer wish to be a Sky customer, you will need to contact us to complete the cancellation process and avoid additional charges.",
+        "unread": true,
+        "keepable": true,
+        "deletable": true,
+        "date": "16 May",
+        "kept": true,
+        "expiryDate": "10 Jul",
+        "deleteDate": "",
+        "deleted": false,
+        "action": {
+          "ctaButtonText": "placeholder for button text",
+          "actionString": "changePaymentMethodHome",
+          "ctaActionText": "Update payment details"
+        }
+      },
+      {
+        "messageId": "c8ecm9e1-7hc5-4a94-av63-6p1615a8f461",
+        "templateId": "EUS0001",
+        "title": "Email Invalid",
+        "text": "Hello,\n\nWe emailed but the delivery failed.\n\nPlease update your email address by selecting 'Update email address' on the right of this message.\n\nThanks",
+        "unread": true,
+        "keepable": true,
+        "deletable": true,
+        "date": "16 May",
+        "kept": true,
+        "expiryDate": "10 Jul",
+        "deleteDate": "",
+        "deleted": false,
+        "action": {
+          "ctaButtonText": "placeholder for button text",
+          "actionString": "makePayment",
+          "ctaActionText": "Make payment"
+        }
+      }
+    ]
+  }
+}
